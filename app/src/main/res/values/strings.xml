@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ContactsBook</string>
+    <string name="txtTitle">Contacts A</string>
+    <string name="btnDetails">Details</string>
+    <string name="btnBack">Back</string>
+    <string name="listItem1">John Abrams</string>
+    <string name="listItem1Address">12 Vine Way, Richmond VA, 23320</string>
+    <string name="listItem1Phone">(804)-342-3452</string>
+    <string name="listItem1Email">JAbrams@gmail.com</string>
+    <string name="listItem2">Jessica Albright</string>
+    <string name="listItem2Address">212 Grove Avenue, Richmond VA, 23320</string>
+    <string name="listItem2Phone">(804)-332-3992</string>
+    <string name="listItem2Email">JAlbright@gmail.com</string>
+</resources>
